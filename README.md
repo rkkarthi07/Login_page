@@ -1,6 +1,6 @@
 # Login Page Project
-
-Welcome to the Login Page project! This is a simple login page created using HTML and CSS. It provides a basic structure for a user login interface and can be a starting point for further development.
+- Welcome to the Login Page project! This is a simple login page created using HTML and CSS. It provides a basic structure for a user login interface and can be a starting point for further development.  
+  **Link** ->[Link Text] https://rkkarthi07.github.io/Login_page/login.html 
 
 ## Project Details
 
@@ -20,7 +20,4 @@ This project includes the following features:
 - **Responsive Design**: The page is responsive and adapts to different screen sizes, making it accessible on various devices.
 
 - **Basic Styling**: The project utilizes CSS for styling, including hover effects for buttons and links.
-
-##Screenshots
-
 
